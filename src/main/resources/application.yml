@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://adriannavasdev:adriluna11@fitlux.q3esrbc.mongodb.net/?retryWrites=true&w=majority&appName=FitLux
+      database: fitlux
